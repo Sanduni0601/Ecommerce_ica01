@@ -1,3 +1,4 @@
+import '../assets/CSS/layout.css'
 export default function Cart({cartItems}) {
     const grandTotal = cartItems.reduce(
         (total, item) => total + item.price * item.quantity,
