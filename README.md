@@ -8,3 +8,7 @@ quantity, the total price of each flower and finally the total of the whole purc
 
 Technology: React 
 Editor: VS code.
+
+This is the output of code
+
+![alt text](ecom/src/assets/image.png)
