@@ -12,7 +12,7 @@ export default function Product({props,addToCart}){
         <div className="grid-item">
 
             <div class="card">
-                <img src = {require('../assets/image/'+props.img)} alt="image"/>
+                <img src = {require('../assets/image/'+props.img)} alt="images"/>
                 <div class="card-body">
                     <h5 class="card-title">{props.name} Price:{props.price}</h5>
                     <div class="quantity-container">

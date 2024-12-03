@@ -27,7 +27,6 @@ export default function Cart({cartItems}) {
                 }
                 <tr>
                     <td >Grand Total : </td>
-                    <td colSpan={2}>Grand Total</td>
                     <td>{grandTotal}</td>
                 </tr>
             </table>
